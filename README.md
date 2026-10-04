@@ -20,7 +20,7 @@ An end-to-end **Data Analytics project** analyzing e-commerce sales, profitabili
 ## 📊 Dashboard Preview
 
 ![E-Commerce Sales Dashboard](dashboard.png)
-
+![Business Insights](business-insights.png)
 ## 💡 Business Insights
 
 * **Electronics** generated the highest overall sales and profit.
